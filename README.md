@@ -3,7 +3,7 @@
 <p align="left">
   <img src="shields.io" alt="Location">
   <a href="mailto:timothymuli32@gmail.com"><img src="shields.io" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/timothy-muli-/"><img src="shields.io" alt="LinkedIn"></a>
+  <a href="linkedin.com"><img src="shields.io" alt="LinkedIn"></a>
   <img src="komarev.com" alt="Profile Views">
 </p>
 
@@ -36,8 +36,8 @@ I design and build secure, transaction-based platforms, scalable API architectur
     <td valign="top" align="center">
       <img src="shields.io" /><br/><br/>
       <img src="shields.io" /><br/><br/>
-      <img src="shields.io" /><br/><br/>
-      <img src="shields.io" />
+      <img src="shields.io🔒-orange?style=flat-square" /><br/><br/>
+      <img src="shields.io🛡️-blueviolet?style=flat-square" />
     </td>
     <td valign="top" align="center">
       <img src="shields.io" /><br/><br/>
